@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colin and Phoebe. A pastoral.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20462</idno><idno type="EEBO-CITATION">99888200</idno>
+  <idno type="VID">200887</idno>
+  <idno type="EEBO-PROQUEST">2240884980</idno>
+  
+            <idno type="STC">Wing C5101B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[14]</idno>
+            <idno type="STC">ESTC R229164</idno>
+            <idno type="PROQUEST">ocm99888200</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888200e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200887)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colin and Phoebe. A pastoral.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Single column of text, initial, each verse alternately is headed "Colin" and "Phoebe", the first headed Colin.</note>
+                  <note>First line: "Be still, oh, ye Winds! and attentive, ye swains!"</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Courtship --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:200887:1"/>
+            <head>
+               <hi>Colin</hi> and <hi>Phoebe.</hi>
+            </head>
+            <head type="sub">A PASTORAL.</head>
+            <sp>
+               <speaker>Colin.</speaker>
+               <l>BE still, oh, ye Winds! and attentive, ye Swains!</l>
+               <l>'Tis Phoebe invites, and replies to my Strains.</l>
+               <l>The Sun never rose on, search all the World thro',</l>
+               <l>A Shepherd so blest, or a fair one so true.</l>
+               <l>
+                  <hi>A Shepherd, &amp;c.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Phoebe.</speaker>
+               <l>Glide softly, ye Streams! oh, ye Nymphs, round me throng!</l>
+               <l>'Tis Colin commands, and enlivens my Song.</l>
+               <l>Search all the World over, you never can find</l>
+               <l>A Maiden so blest, or a Shepherd so kind.</l>
+               <l>
+                  <hi>A Maiden, &amp;c</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <l>
+                  <hi>'Tis Love, like the Sun, that gives Light to the Year,</hi>
+               </l>
+               <l>
+                  <hi>The sweetest of Blessings that Life can endear.</hi>
+               </l>
+               <l>
+                  <hi>Our Pleasures it brightens, drives Sorrow away,</hi>
+               </l>
+               <l>
+                  <hi>Gives Joy to the Night, and enlivens the Day.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Colin</speaker>
+               <l>With Phoebe beside me, the Seasons how gay!</l>
+               <l>And Winter's bleak Months are as pleasant as May;</l>
+               <l>The Summer's gay Verdure still springs as she treads,</l>
+               <l>And Linnets and Nightingales sing thro' the Meads.</l>
+            </sp>
+            <sp>
+               <speaker>Phoebe.</speaker>
+               <l>When Colin is absent, 'tis Winter all round;</l>
+               <l>How faint is the Sun-shine▪ <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow barren the Ground,</l>
+               <l>Instead of the Linnets and Nightingale's Song,</l>
+               <l>I hear the hoarse Raven croak all the Day long.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus,</speaker>
+               <p>&amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Colin.</speaker>
+               <l>Over Hills, Dales, and Vallies, my Phoebe and I</l>
+               <l>Together will wander, and Love shall be nigh;</l>
+               <l>Her Colin shall guard her safe all the long Day,</l>
+               <l>And Phoebe at Night all his Pains shall repay.</l>
+            </sp>
+            <sp>
+               <speaker>Phoebe.</speaker>
+               <l>By Moon-light, when Shadows glide over the Plain,</l>
+               <l>His Kisses shall chear me, his Arm shall sustain;</l>
+               <l>The dark-haunted Grove I can trace without Fear,</l>
+               <l>And sleep in a Church-yard, if Colin is near.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus,</speaker>
+               <p>&amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Colin.</speaker>
+               <l>Ye Shepherds that wanton it over the Plain,</l>
+               <l>How fleeting your Transports! how lasting your Pain</l>
+               <l>Inconstancy shun, and reward the fair she,</l>
+               <l>And learn to be happy from Phoebe and me.</l>
+            </sp>
+            <sp>
+               <speaker>Phoebe.</speaker>
+               <l>Ye Nymphs who the Pleasure of Love never try'd,</l>
+               <l>Attend to my Strains, and take me for your Guide;</l>
+               <l>Your Hearts keep from Pride and Inconstancy free,</l>
+               <l>And learn to be happy from Colin and me.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus,</speaker>
+               <p>&amp;c.</p>
+            </sp>
+            <trailer type="illustration">
+               <figure/>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
